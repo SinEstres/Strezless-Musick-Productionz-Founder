@@ -1,0 +1,11 @@
+-
+
++ { "name": "Omar Dejesu Orrantia=Sin Estres", "ended": "1", "entity": { "id": 2669163, "name": "Strezless Musick" }, "locale": "es", "type_id": null, "alias_id": 24650, "end_date": { "day": null, "year": null, "month": null }, "sort_name": "Sin Estres, Strezless, Double O, $in Estre$", "begin_date": { "day": null, "year": null, "month": null }, "primary_for_locale": "1" }
+
++
+
++{ git push  <SinEstres> <StrezlessMusick> 
+
++To push all your tags, you can type the command:|
+
++(ISNI:0000 0004 9341 7373) }
